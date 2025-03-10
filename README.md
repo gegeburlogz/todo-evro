@@ -56,7 +56,6 @@ In the project directory, you can run:
 - `npm run dev`: Runs the app in the development mode.
 - `npm run build`: Builds the app for production.
 - `npm run start`: Starts the production build.
-- `npm run lint`: Lints the codebase.
 
 ## Learn More
 
